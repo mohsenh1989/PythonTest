@@ -11,4 +11,5 @@ if __name__ == '__main__':
 
        print(Color.Cyan + "Name: {}, Age: {}.".format(Person.name, Person.age)+ Color.End)
        print(Color.Green + "======================================" + Color.End)
+       print(Color.Red + "======================================" + Color.End)
 
